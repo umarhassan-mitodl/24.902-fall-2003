@@ -5,6 +5,8 @@ description: Lecture summary on the English verbal system, and an introduction t
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/4606e54f40b2647ea4fba18a69634ebc_ln78_oct6_8_sum.pdf
 file_size: 91154
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

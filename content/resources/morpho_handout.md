@@ -4,6 +4,8 @@ description: Lecture handout on morphological case systems.
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/a387b2d4b977f137af86dad8c9fa27d9_morpho_handout.pdf
 file_size: 97533
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

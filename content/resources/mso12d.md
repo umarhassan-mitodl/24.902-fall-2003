@@ -5,6 +5,8 @@ description: Lecture summary on predicates and arguments, raising-to-subject pre
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/cee1d8041aa0fa1ffe818df736cc1983_mso12D.pdf
 file_size: 144948
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

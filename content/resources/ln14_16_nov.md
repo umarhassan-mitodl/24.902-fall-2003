@@ -4,6 +4,8 @@ description: Lecture summary on pronouns in DP and uncontrolled PRO.
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/4f20a928aac9f440ca7ff2568dc6c372_ln14_16_nov.pdf
 file_size: 158235
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

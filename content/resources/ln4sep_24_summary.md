@@ -4,6 +4,8 @@ description: Lecture summary on Japanese phrase structure, scrambling, and verb 
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/910f9d235b22f5fa34bd455cc7318fb9_ln4Sep_24_summary.pdf
 file_size: 174556
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

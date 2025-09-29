@@ -4,6 +4,8 @@ description: Solutions to an optional final problem on wh-movement and islands.
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/87dbba8720f955eb0e8cd3eec495660a_practiceps_ans.pdf
 file_size: 73168
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

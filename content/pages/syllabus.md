@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides information on course meeting times, readings
   and attendance, problem sets, squibs, the final exam, and grade computation.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -40,7 +42,7 @@ You are encouraged to discuss the class with your classmates, and general discus
 Squib
 -----
 
-You will also write a short paper (5-10 p.) on a syntax topic. We will be most happy if the the paper is what linguists call a **squib**. A squib is a pattern of facts that you find interesting along with an exploration of their possible significance. You might discover these facts yourself, as you sit in class, talk with friends, or read the newspaper - or you might read them in a reference grammar or linguistics book. The paper should contain an organized description of the phenomenon, explain its interest and significance, and suggest how you might analyse it. For an entire professional journal devoted to squibs, see {{% resource_link "dd32fa56-1b14-4a68-abe6-bca1e6402206" "online" %}}. (Click on the open book icon for the actual squibs).
+You will also write a short paper (5-10 p.) on a syntax topic. We will be most happy if the the paper is what linguists call a **squib**. A squib is a pattern of facts that you find interesting along with an exploration of their possible significance. You might discover these facts yourself, as you sit in class, talk with friends, or read the newspaper - or you might read them in a reference grammar or linguistics book. The paper should contain an organized description of the phenomenon, explain its interest and significance, and suggest how you might analyse it. For an entire professional journal devoted to squibs, see [online](http://www.ledonline.it/snippets/). (Click on the open book icon for the actual squibs).
 
 If you have grave difficulties finding a topic, an acceptable (but more conventional) alternative to the squib would be a 5-10p review of a popular-science book that discusses syntax in some way. I will supply a list of such books and more details about this option later in the semester.
 

@@ -5,6 +5,8 @@ description: Lecture summary on Wh-movement, multiple questions and islands, ove
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/83fcb687b3bf647057e54a2a4f5a9384_ln19final_sum.pdf
 file_size: 311897
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: Lecture handout on a mini-argument for covert wh-movement in Englis
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/246e2b41f95ac681bb2005f2afbf6c66_12_10cover.pdf
 file_size: 69841
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
