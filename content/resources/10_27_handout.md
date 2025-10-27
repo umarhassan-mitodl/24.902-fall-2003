@@ -4,8 +4,6 @@ description: Lecture handout on unaccusativity.
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/45233e9d7322c500f4a0ed686c214173_10_27_handout.pdf
 file_size: 128560
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

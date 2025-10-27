@@ -5,8 +5,6 @@ description: Problem set on syntax, British crudeness, and the "genitive of nega
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/c9c8a5d014214aa4f36f2cbf070cf25a_ps_8.pdf
 file_size: 116408
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

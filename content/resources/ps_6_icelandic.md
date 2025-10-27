@@ -4,8 +4,6 @@ description: Problem set on syntax and case.
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/06f9c15837df61a0d550ee27677ba15a_ps_6_icelandic.pdf
 file_size: 114606
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

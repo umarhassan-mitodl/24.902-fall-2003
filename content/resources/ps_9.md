@@ -4,8 +4,6 @@ description: Problem set on syntax, binding theory, and psych verbs.
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/e6db47e56dcc5c42581e53538fde10af_ps_9.pdf
 file_size: 56561
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

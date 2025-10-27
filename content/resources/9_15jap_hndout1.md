@@ -4,8 +4,6 @@ description: Lecture handout on Japanese syntax.
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/59e959faab77829dbe4225a718d07497_9_15jap_hndout1.pdf
 file_size: 51209
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

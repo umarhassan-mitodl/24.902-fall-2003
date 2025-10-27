@@ -4,8 +4,6 @@ description: Lecture handout on wh-movement and movement in general.
 file: /courses/24-902-language-and-its-structure-ii-syntax-fall-2003/9d5d3b955852dabbf79d621a5d933d56_1124_handout_2.pdf
 file_size: 123297
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
